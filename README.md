@@ -1,13 +1,22 @@
-# Email Processing System
+# AI-Inbox-Management
 
-A modular system for processing emails, categorizing them, and sending notifications for high-priority emails.
+Tired of drowning in emails?
 
-## Features
+I developed a smart AI-powered email assistant to simplify your inbox management! 
 
-- Fetches unread emails from Gmail
-- Categorizes emails using Google's Gemini model
-- Sends notifications for high-priority emails via Telegram
-- Handles rate limits gracefully with fallback categorization
+An AI Agent for your inbox management! 
+
+# Key Features: 
+
+- Intelligent Priority Detection (High/Medium/Low) 
+
+- Smart Categorization (Work, Personal, GitHub, YouTube, etc.)
+
+- Task Identification (highlights emails that need responses) 
+
+- Instant Telegram Notifications (real-time alerts only for urgent emails)
+
+No more missed opportunities or wasted time sorting through countless emails.
 
 ## Project Structure
 
